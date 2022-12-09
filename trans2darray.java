@@ -1,3 +1,4 @@
+// Tell me this is working now.
 import java.util.Scanner;
 
 public class trans2darray{
